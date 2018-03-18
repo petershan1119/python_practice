@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/macos,python,pycharm
 .ipynb
 .ipynb_checkpoints/
+.idea
 
 ### macOS ###
 *.DS_Store
